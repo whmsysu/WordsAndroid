@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.wordsandroid.app-merged_res-41:/menu_menu_main.xml.flat",
+        "source": "com.example.wordsandroid.app-main-43:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/animator_card_flip_in.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/animator/card_flip_in.xml"
+    },
+    {
+        "merged": "com.example.wordsandroid.app-merged_res-41:/layout_activity_vocabulary_book.xml.flat",
+        "source": "com.example.wordsandroid.app-main-43:/layout/activity_vocabulary_book.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/animator_card_flip_out.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/animator/card_flip_out.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/layout_item_word_card.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/layout/item_word_card.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.wordsandroid.app-merged_res-41:/layout_item_vocabulary_word.xml.flat",
+        "source": "com.example.wordsandroid.app-main-43:/layout/item_vocabulary_word.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-merged_res-41:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/drawable/ic_launcher.xml"
+    }
+]

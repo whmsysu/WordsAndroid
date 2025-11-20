@@ -1,0 +1,22 @@
+#Fri Nov 21 01:45:31 CST 2025
+base.0=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.3=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.4=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+base.5=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.6=/Users/haominwu/Documents/Words/WordsAndroid/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=14/classes.dex
+path.4=15/classes.dex
+path.5=4/classes.dex
+path.6=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
+renamed.6=classes7.dex

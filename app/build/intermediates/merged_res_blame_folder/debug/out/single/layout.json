@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-mergeDebugResources-40:/layout/item_word_card.xml",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/layout/item_word_card.xml"
+    },
+    {
+        "merged": "com.example.wordsandroid.app-mergeDebugResources-40:/layout/activity_vocabulary_book.xml",
+        "source": "com.example.wordsandroid.app-main-43:/layout/activity_vocabulary_book.xml"
+    },
+    {
+        "merged": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "/Users/haominwu/.gradle/daemon/9.0-milestone-1/com.example.wordsandroid.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.wordsandroid.app-mergeDebugResources-40:/layout/item_vocabulary_word.xml",
+        "source": "com.example.wordsandroid.app-main-43:/layout/item_vocabulary_word.xml"
+    }
+]
